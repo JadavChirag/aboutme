@@ -1,4 +1,4 @@
-# Portfolio
+# About Me
  ![Preview](images/gallery/thumbs/lio1.png)
  ![Preview_2](images/gallery/thumbs/portfolio.png)
 
