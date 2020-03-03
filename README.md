@@ -22,7 +22,7 @@ Same goes for feature requests.
 
 ## Feedback
 
-I will be glad to listen any constructive feedback. Please, shoot an email to me: `chiragjadav134@gmail.com`
+I will be glad to listen any constructive feedback.
 
 ## License
 
