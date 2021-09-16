@@ -10,9 +10,9 @@ Simple portfolio to show some brief information about me, my skills and Projects
 
 Clone/download the repository and move to the project folder.
 
-## Usage for 'Jimmy' 😅
+## Usage for 'hellochirag' 😅
 
-Open `index.html` in your favorite browser to preview/edit the project at the `./`dir folder or go to the link provided at the top to preview it.    
+Open `index.html` in your favorite browser to preview/edit the project at the `./`dir folder or go to the link provided at the top to preview it.
 The '404.html' is a cool 'Page Not Found' page
 
 ## Issues
